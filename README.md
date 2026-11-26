@@ -80,6 +80,7 @@ Script chọn **10 frame cố định theo mã số**, hai frame mỗi sequence,
 | Cài Git, Python, thư viện, tải dữ liệu (Windows và macOS) | [docs/SETUP.md](docs/SETUP.md) |
 | Cài CVAT trên máy, máy yếu, tạo task bằng tay, mẹo giao diện 3D | [docs/CVAT_SETUP.md](docs/CVAT_SETUP.md) |
 | **Mọi lệnh của buổi lab**, Windows và macOS | [docs/COMMANDS.md](docs/COMMANDS.md) |
+| Tạo cuboid nháp từ LiDAR và thêm vào CVAT local | [docs/AUTO_LABEL.md](docs/AUTO_LABEL.md) |
 | Hệ tọa độ VF, 7 tham số, hướng 7 camera | [docs/COORDINATES.md](docs/COORDINATES.md) |
 | Tóm tắt guideline: 5 class, quy tắc cuboid, bảng 4.3 | [docs/GUIDELINE.md](docs/GUIDELINE.md), [bản đầy đủ (.docx)](docs/3D_Cuboid_Annotation_Guideline.docx) |
 | Bốn hiện tượng ảnh hưởng đến việc gán nhãn và frame gợi ý | [docs/PHENOMENA.md](docs/PHENOMENA.md) |
